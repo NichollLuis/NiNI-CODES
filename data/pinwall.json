@@ -1,0 +1,160 @@
+{
+  "categories": [
+    "All",
+    "Interiors",
+    "Travel",
+    "Food",
+    "Fashion",
+    "Art",
+    "Nature"
+  ],
+  "pins": [
+    {
+      "id": 1,
+      "title": "Sun-bleached terrace in Oia",
+      "author": "Mara Lindqvist",
+      "category": "Travel",
+      "seed": "oia-1",
+      "h": 560
+    },
+    {
+      "id": 2,
+      "title": "Charred citrus and fennel salad",
+      "author": "Theo Russo",
+      "category": "Food",
+      "seed": "citrus-1",
+      "h": 420
+    },
+    {
+      "id": 3,
+      "title": "Hand-thrown stoneware mugs",
+      "author": "Ines Calderon",
+      "category": "Art",
+      "seed": "mugs-1",
+      "h": 680
+    },
+    {
+      "id": 4,
+      "title": "Boucle armchair, butter yellow",
+      "author": "Priya Anand",
+      "category": "Interiors",
+      "seed": "chair-1",
+      "h": 520
+    },
+    {
+      "id": 5,
+      "title": "Marrakech riad courtyard",
+      "author": "Yusuf Demir",
+      "category": "Travel",
+      "seed": "riad-1",
+      "h": 760
+    },
+    {
+      "id": 6,
+      "title": "Wild garlic pesto, first batch",
+      "author": "Theo Russo",
+      "category": "Food",
+      "seed": "pesto-1",
+      "h": 460
+    },
+    {
+      "id": 7,
+      "title": "Linen layers for shoulder season",
+      "author": "Elin Forsberg",
+      "category": "Fashion",
+      "seed": "linen-1",
+      "h": 640
+    },
+    {
+      "id": 8,
+      "title": "Untitled, ink on rice paper",
+      "author": "Ines Calderon",
+      "category": "Art",
+      "seed": "ink-1",
+      "h": 500
+    },
+    {
+      "id": 9,
+      "title": "Foraged wildflower arrangement",
+      "author": "Noor Haddad",
+      "category": "Nature",
+      "seed": "wild-1",
+      "h": 600
+    },
+    {
+      "id": 10,
+      "title": "Mid-century shelving nook",
+      "author": "Priya Anand",
+      "category": "Interiors",
+      "seed": "shelf-1",
+      "h": 440
+    },
+    {
+      "id": 11,
+      "title": "Tide pools at low light",
+      "author": "Noor Haddad",
+      "category": "Nature",
+      "seed": "tide-1",
+      "h": 540
+    },
+    {
+      "id": 12,
+      "title": "Saffron rice, charred lemon",
+      "author": "Theo Russo",
+      "category": "Food",
+      "seed": "saffron-1",
+      "h": 700
+    },
+    {
+      "id": 13,
+      "title": "Terracotta rooftops, Lisbon",
+      "author": "Mara Lindqvist",
+      "category": "Travel",
+      "seed": "lisbon-1",
+      "h": 480
+    },
+    {
+      "id": 14,
+      "title": "Quiet corner, reading chair",
+      "author": "Priya Anand",
+      "category": "Interiors",
+      "seed": "reading-1",
+      "h": 610
+    },
+    {
+      "id": 15,
+      "title": "Sourdough crumb study",
+      "author": "Theo Russo",
+      "category": "Food",
+      "seed": "sourdough-1",
+      "h": 520
+    },
+    {
+      "id": 16,
+      "title": "Studio still life, citrus and brass",
+      "author": "Ines Calderon",
+      "category": "Art",
+      "seed": "still-1",
+      "h": 660
+    },
+    {
+      "id": 17,
+      "title": "Raw wool, undyed texture",
+      "author": "Elin Forsberg",
+      "category": "Fashion",
+      "seed": "wool-1",
+      "h": 430
+    },
+    {
+      "id": 18,
+      "title": "Coastal trail switchback",
+      "author": "Yusuf Demir",
+      "category": "Travel",
+      "seed": "trail-1",
+      "h": 580
+    }
+  ],
+  "saved": [],
+  "hidden": [],
+  "updatedAt": 1782691722
+}
