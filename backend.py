@@ -4,6 +4,7 @@ from urllib.parse import unquote, urlparse
 import json
 import mimetypes
 import re
+import os
 import threading
 import time
 
@@ -12,8 +13,8 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DATA_FILE = DATA_DIR / "bible_companion.json"
 HOME_FILE = ROOT / "Pinboard webpage.html"
-HOST = "127.0.0.1"
-PORT = 8000
+HOST = "0.0.0.0"
+PORT = int(os.environ.get("PORT", 8000))
 
 STORE_LOCK = threading.Lock()
 
